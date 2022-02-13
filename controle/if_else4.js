@@ -9,8 +9,8 @@ if (hora < 12) {
     saudacao = 'Boa tarde!';
 } else{
     saudacao = 'Muito tarde!'
-}
+} // não é obrigado, mas se ele nao cai no primeiro, cai no ultimo
 
-// pode agrupar
+// pode agrupar. método mais usado
 
 console.log(saudacao);

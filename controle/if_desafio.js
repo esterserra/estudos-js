@@ -1,4 +1,4 @@
-const nota = 6.99;
+const nota = 4.5;
 
 if (nota <= 10 && nota >= 9) {
     console.log('A');
@@ -17,7 +17,7 @@ if (nota < 5 && nota >= 4.5) {
 }
 
 if (nota >= 0 && nota <= 4.5) {
-    console.log('C');
+    console.log('F');
 }
 
 console.log('Fim!');
